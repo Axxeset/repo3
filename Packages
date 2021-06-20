@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.axxeset.iapcracker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Axxeset
+Filename: /com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Section: Tweaks
+Description: ipacracker
+Author: Axxeset
+Name: iapcracker
